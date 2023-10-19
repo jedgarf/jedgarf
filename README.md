@@ -19,7 +19,7 @@ Don't hesitate to connect with me. Whether it's for collaboration, knowledge sha
     Email: jedgarf.dev12@gmail.com
     Location: Philippines 🌴
 
-### 🧰 Languages and tools I use
+### 🧰 Programming languages and tools I use
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -31,7 +31,7 @@ Don't hesitate to connect with me. Whether it's for collaboration, knowledge sha
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,typescript,python,django,docker" />
+    <img src="https://skillicons.dev/icons?i=flutter,typescript,python,django,docker,jenkins" />
   </a>
 </p>
 
