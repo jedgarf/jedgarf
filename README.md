@@ -10,7 +10,7 @@
   </a>
 </h1>
 
-Hello there! I'm a dedicated self-taught developer based in the Philippines. My expertise primarily revolves around backend web development and the exciting world of IoT devices. I'm also well-versed in configuring MikroTik routers. If you're looking to enhance your digital projects or need assistance with intricate technicalities, I'm your person!
+Hello there! I'm a dedicated self-taught developer based in the Philippines. My expertise primarily revolves around frontend and backend web/software development.
 
 Don't hesitate to connect with me. Whether it's for collaboration, knowledge sharing, or sparking insightful discussions about all things tech, I'm here and eager to engage. Let's join forces in the realm of coding! 🚀
 
