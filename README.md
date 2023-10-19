@@ -1,16 +1,44 @@
-### Hi there 👋
+#  Hi! I'm John Edgar!😃
 
-<!--
-**jedgarf/jedgarf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" alt="Banner" width="400" />
+</div>
 
-Here are some ideas to get you started:
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=roboto&duration=4500&center=true&vCenter=true&width=550&lines=Hi!;I'm+Kintoyyy!;I+code+for+fun;Nice+to+meet+you+%3A)&size=30">
+  </a>
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello there! I'm a dedicated self-taught developer based in the Philippines. My expertise primarily revolves around backend web development and the exciting world of IoT devices. I'm also well-versed in configuring MikroTik routers. If you're looking to enhance your digital projects or need assistance with intricate technicalities, I'm your person!
+
+Don't hesitate to connect with me. Whether it's for collaboration, knowledge sharing, or sparking insightful discussions about all things tech, I'm here and eager to engage. Let's join forces in the realm of coding! 🚀
+
+    Facebook: @jedgarf
+    Telegram: @jedgarf
+    Email: jedgarf.dev12@gmail.com
+    Location: Philippines 🌴
+
+### 🧰 Languages and tools I use
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,codeigniter,laravel,javascirpt,jquery,reactjs,nodejs,expressjs,mysql,postgresql,mongodb,sqlite,git,github,postman,linux,vscode,sublimetext" />
+  </a>
+</p>
+
+### 🎓 Currently Learning
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,typescript,python,django,docker" />
+  </a>
+</p>
+
+<br />
+
+#
+### 📊 Stats
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=jedgarf&show_icons=true&theme=dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jedgarf&theme=dark&hide_border=true)](https://git.io/streak-stats)
