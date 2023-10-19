@@ -23,7 +23,7 @@ Don't hesitate to connect with me. Whether it's for collaboration, knowledge sha
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,codeigniter,laravel,javascirpt,jquery,reactjs,nodejs,expressjs,mysql,postgresql,mongodb,sqlite,git,github,postman,linux,vscode,sublimetext" />
+    <img src="[https://skillicons.dev/icons?i=php,codeigniter3,laravel,javascirpt,jquery,reactjs,nodejs,expressjs,mysql,postgresql,mongodb,sqlite,git,github,postman,linux,vscode,sublimetext](https://skillicons.dev/icons?i=php,laravel,javascript,jquery,react,nodejs,expressjs,mysql,postgresql,mongodb,sqlite,git,github,postman,linux,vscode)" />
   </a>
 </p>
 
