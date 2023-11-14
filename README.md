@@ -19,6 +19,10 @@ Don't hesitate to connect with me. Whether it's for collaboration, knowledge sha
     Email: jedgarf.dev12@gmail.com
     Location: Philippines 🌴
 
+### 🧰 Codebase template that I already made for fast development
+
+- NodeJS/ExpressJS <a href="https://github.com/jedgarf/expressjs-api-template">https://github.com/jedgarf/expressjs-api-template</a>
+
 ### 🧰 Programming languages and tools I use
 
 <p align="center">
@@ -26,10 +30,6 @@ Don't hesitate to connect with me. Whether it's for collaboration, knowledge sha
     <img src="https://skillicons.dev/icons?i=php,laravel,javascript,jquery,react,nodejs,expressjs,mysql,postgresql,mongodb,sqlite,git,github,postman,linux,vscode" />
   </a>
 </p>
-
-### 🧰 Codebase Template I already made for fast development
-
-- NodeJS/ExpressJS <a href="https://github.com/jedgarf/expressjs-api-template">https://github.com/jedgarf/expressjs-api-template</a>
 
 ### 🎓 Currently Learning
 
