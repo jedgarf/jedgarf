@@ -30,10 +30,6 @@ Don't hesitate to connect with me. Whether it's for collaboration, knowledge sha
 ### 🧰 Codebase Template I already made for fast development
 
 - NodeJS/ExpressJS <a href="https://github.com/jedgarf/expressjs-api-template">https://github.com/jedgarf/expressjs-api-template</a>
-- PDO PHP Extension
-- Mbstring PHP Extension
-- Tokenizer PHP Extension
-- XML PHP Extension
 
 ### 🎓 Currently Learning
 
