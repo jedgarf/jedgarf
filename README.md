@@ -23,6 +23,7 @@ Don't hesitate to connect with me. Whether it's for collaboration, knowledge sha
 
 #### Backend (API)
 
+- Laravel 9 <a href="https://github.com/jedgarf/laravel9_api_template">https://github.com/jedgarf/laravel9_api_template</a>
 - NodeJS/ExpressJS <a href="https://github.com/jedgarf/expressjs-api-template">https://github.com/jedgarf/expressjs-api-template</a>
 
 ### 🧰 Programming languages and tools I use
