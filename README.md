@@ -14,7 +14,7 @@ Hello there! I'm a dedicated self-taught developer based in the Philippines. My 
 
 Don't hesitate to connect with me. Whether it's for collaboration, knowledge sharing, or sparking insightful discussions about all things tech, I'm here and eager to engage. Let's join forces in the realm of coding! 🚀
 
-    LinkedIn: https://www.linkedin.com/in/jedgarf
+    LinkedIn: <a href="https://github.com/jedgarf/expressjs-api-template">https://www.linkedin.com/in/jedgarf</a>
     Facebook: https://www.facebook.com/jedgarf
     Email: jedgarf.dev12@gmail.com
     Location: Philippines 🌴
