@@ -30,7 +30,7 @@ Don't hesitate to connect with me. Whether it's for collaboration, knowledge sha
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,javascript,jquery,react,nodejs,expressjs,mysql,postgresql,mongodb,sqlite,git,github,postman,linux,vscode" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,javascript,jquery,react,nodejs,expressjs,mysql,postgresql,mongodb,sqlite,git,github,postman,linux,vscode,typescript" />
   </a>
 </p>
 
@@ -38,7 +38,7 @@ Don't hesitate to connect with me. Whether it's for collaboration, knowledge sha
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,typescript,python,django,docker,jenkins" />
+    <img src="https://skillicons.dev/icons?i=flutter,docker,jenkins" />
   </a>
 </p>
 
