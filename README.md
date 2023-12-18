@@ -21,7 +21,7 @@ Don't hesitate to connect with me. Whether it's for collaboration, knowledge sha
 
 ### 🧰 Codebase template that I already made for fast development
 
-#### Backend (API)
+#### Backend (REST API)
 
 - Laravel 9 <a href="https://github.com/jedgarf/laravel9-api-template">https://github.com/jedgarf/laravel9-api-template</a>
 - NodeJS/ExpressJS <a href="https://github.com/jedgarf/expressjs-api-template">https://github.com/jedgarf/expressjs-api-template</a>
