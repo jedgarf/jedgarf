@@ -26,6 +26,10 @@ Don't hesitate to connect with me. Whether it's for collaboration, knowledge sha
 - Laravel 9 <a href="https://github.com/jedgarf/laravel9-api-template">https://github.com/jedgarf/laravel9-api-template</a>
 - NodeJS/ExpressJS <a href="https://github.com/jedgarf/expressjs-api-template">https://github.com/jedgarf/expressjs-api-template</a>
 
+#### This is my sample integration between ReactJS (Frontend) and Laravel 9 (Backend)
+- ReactJS <a href="https://github.com/jedgarf/simple-task-mngt-crud-app">https://github.com/jedgarf/simple-task-mngt-crud-app</a>
+- Laravel 9 <a href="https://github.com/jedgarf/simple_task_mngt_crud_backend">https://github.com/jedgarf/simple_task_mngt_crud_backend</a>
+
 ### 🧰 Programming languages and tools I use
 
 <p align="center">
