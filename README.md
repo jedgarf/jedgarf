@@ -38,7 +38,7 @@ Don't hesitate to connect with me. Whether it's for collaboration, knowledge sha
   </a>
 </p>
 
-### 🎓 Currently Learning
+### 🎓 Currently Studying
 
 <p align="center">
   <a href="https://skillicons.dev">
