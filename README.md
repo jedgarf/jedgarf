@@ -51,7 +51,8 @@ Don't hesitate to connect with me. Whether it's for collaboration, knowledge sha
 #
 ### 📊 Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jedgarf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jedgarf&langs_count=8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jedgarf&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jedgarf&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
