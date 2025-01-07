@@ -1,5 +1,3 @@
-#  Hi! I'm John Edgar!😃
-
 <div align="center">
   <img src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" alt="Banner" width="400" />
 </div>
