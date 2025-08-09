@@ -42,6 +42,9 @@ ReactJS + Laravel 9 sample project:
 - Frontend: [`simple-task-mngt-crud-app`](https://github.com/jedgarf/simple-task-mngt-crud-app)  
 - Backend: [`simple_task_mngt_crud_backend`](https://github.com/jedgarf/simple_task_mngt_crud_backend)
 
+### 📱 React Native Template
+- Bridgeless React Native 0.80.2 + NativeWind: [`react-native-tailwind-template`](https://github.com/jedgarf/react-native-tailwind-template)
+
 ---
 
 ## 🛠️ Tools & Technologies
