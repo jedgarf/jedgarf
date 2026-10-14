@@ -4,8 +4,8 @@
   <h3>Full-Stack Software Engineer 🇵🇭</h3>
 
   <p>
-    <a href="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+scalable+web+%26+mobile+apps;Specialized+in+Laravel%2C+React+%26+Node.js;Clean+code+%26+efficient+architecture">
-      <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+scalable+web+%26+mobile+apps;Specialized+in+Laravel%2C+React+%26+Node.js;Clean+code+%26+efficient+architecture" alt="Typing SVG" />
+    <a href="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+scalable+web+%26+mobile+apps;Specialized+in+Laravel%2C+React+%26+Node.js;Creator+of+BeatNode%2C+an+open+source+player;Clean+code+%26+efficient+architecture">
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+scalable+web+%26+mobile+apps;Specialized+in+Laravel%2C+React+%26+Node.js;Creator+of+BeatNode%2C+an+open+source+player;Clean+code+%26+efficient+architecture" alt="Typing SVG" />
     </a>
   </p>
 
@@ -25,7 +25,45 @@ I am a **Full-Stack Software Engineer** based in the Philippines with a strong b
 
 - 🔭 **Focus:** Scalable Backend Architecture & Modern Mobile App Solutions
 - ⚡ **Core Stack:** Laravel, React, React Native, Node.js, MySQL/PostgreSQL
+- 🎧 **Building:** [BeatNode](https://github.com/jedgarf/BeatNode-Desktop), an open source desktop music and video player
 - 🤝 **Open to:** Engineering collaboration, open-source projects, & technical discussions
+
+---
+
+### 🎧 Featured Open Source Project
+
+<a href="https://github.com/jedgarf/BeatNode-Desktop">
+  <img src="https://raw.githubusercontent.com/jedgarf/BeatNode-Desktop/main/docs/preview.jpg" alt="BeatNode library and now playing screens" width="100%" />
+</a>
+
+<table>
+  <tr>
+    <td width="110" align="center">
+      <a href="https://github.com/jedgarf/BeatNode-Desktop"><img src="https://raw.githubusercontent.com/jedgarf/BeatNode-Desktop/main/public/beatnode.svg" alt="BeatNode logo" width="88" /></a>
+    </td>
+    <td>
+      <h3><a href="https://github.com/jedgarf/BeatNode-Desktop">BeatNode</a></h3>
+      A free, local-first music and video player for <b>macOS, Windows and Linux</b>. Point it at your folders, it builds the library, and your playlists follow you across machines through any synced folder.
+      <br /><br />
+      <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/license-MIT-7C3AED?style=flat-square" alt="MIT license" />
+    </td>
+  </tr>
+</table>
+
+- 📂 **Folder watching:** new and deleted files show up in the library on their own
+- 🔄 **Playlist sync:** through iCloud Drive, Dropbox, OneDrive, Google Drive or a USB stick
+- 🖼️ **Album art and lyrics:** read from the file, the folder, or looked up online
+- 🌙 **Background playback:** keeps playing from the tray or menu bar, in light or dark mode
+
+<p>
+  <a href="https://github.com/jedgarf/BeatNode-Desktop/releases/latest"><img src="https://img.shields.io/badge/Download-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Download BeatNode" /></a>
+  <a href="https://github.com/jedgarf/BeatNode-Desktop"><img src="https://img.shields.io/github/stars/jedgarf/BeatNode-Desktop?style=for-the-badge&color=C026D3&label=Stars" alt="GitHub stars" /></a>
+</p>
 
 ---
 
