@@ -26,7 +26,7 @@ I am a **Full-Stack Software Engineer** based in the Philippines with a strong b
 - 🔭 **Focus:** Scalable Backend Architecture & Modern Mobile App Solutions
 - ⚡ **Core Stack:** Laravel, React, React Native, Node.js, MySQL/PostgreSQL
 - 🎧 **Building:** [BeatNode](https://github.com/jedgarf/BeatNode-Desktop), an open source desktop music and video player
-- 📱 **Shipped:** [KayaJob](https://github.com/jedgarf/KayaJob-Releases) and [TripTarget](https://github.com/jedgarf/TripTarget-Releases) for Android
+- 📱 **Shipped:** [KayaJob](https://github.com/jedgarf/KayaJob-Releases) and [TripTarget](https://github.com/jedgarf/TripTarget-Releases) for Android, and [Media Alchemy](https://media-alchemy.vercel.app/) on the web
 - 🤝 **Open to:** Engineering collaboration, open-source projects, & technical discussions
 
 ---
@@ -68,13 +68,13 @@ I am a **Full-Stack Software Engineer** based in the Philippines with a strong b
 
 ---
 
-### 📱 Android Apps
+### 📱 Apps I've Shipped
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/jedgarf/KayaJob-Releases"><img src="https://jefdev.vercel.app/images/projects/kayajob.jpg" alt="KayaJob" width="100%" /></a>
-      <h3><a href="https://github.com/jedgarf/KayaJob-Releases">KayaJob</a></h3>
+      <h3><a href="https://github.com/jedgarf/KayaJob-Releases">KayaJob</a> · Android</h3>
       <b>Kaya mo 'yan.</b> The all-in-one app for Filipino job seekers: a job tracker, requirements vault, AI interview coach, take-home pay calculator, offer comparison and the KayaNav commute planner.
       <br /><br />
       <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
@@ -87,7 +87,7 @@ I am a **Full-Stack Software Engineer** based in the Philippines with a strong b
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/jedgarf/TripTarget-Releases"><img src="https://jefdev.vercel.app/images/projects/triptarget.jpg" alt="TripTarget" width="100%" /></a>
-      <h3><a href="https://github.com/jedgarf/TripTarget-Releases">TripTarget</a></h3>
+      <h3><a href="https://github.com/jedgarf/TripTarget-Releases">TripTarget</a> · Android</h3>
       <b>Aim. Save. Go.</b> A travel budget planner with savings goals, packing lists, an itinerary map, a live trip map and expense tracking with receipt scanning. Works offline.
       <br /><br />
       <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
@@ -97,6 +97,26 @@ I am a **Full-Stack Software Engineer** based in the Philippines with a strong b
       <br /><br />
       <a href="https://github.com/jedgarf/TripTarget-Releases/releases/latest"><img src="https://img.shields.io/github/v/release/jedgarf/TripTarget-Releases?style=for-the-badge&logo=android&logoColor=white&label=Download%20APK&color=3DDC84" alt="Download TripTarget APK" /></a>
       <a href="https://triptarget.vercel.app"><img src="https://img.shields.io/badge/Website-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="TripTarget website" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://media-alchemy.vercel.app/"><img src="https://jefdev.vercel.app/images/projects/media-alchemy.jpg" alt="Media Alchemy" width="100%" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://media-alchemy.vercel.app/">Media Alchemy</a> · Web</h3>
+      <b>Turn anything into something more.</b> A media converter for social links and everyday files, with a queue, batch downloads and auto-cleanup.
+      <ul>
+        <li>Social media downloads</li>
+        <li>Files to PDF and an image converter</li>
+        <li>Merge video and audio</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+      <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" alt="FFmpeg" />
+      <br /><br />
+      <a href="https://media-alchemy.vercel.app/"><img src="https://img.shields.io/badge/Open_the_app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Open Media Alchemy" /></a>
     </td>
   </tr>
 </table>
