@@ -4,8 +4,8 @@
   <h3>Full-Stack Software Engineer 🇵🇭</h3>
 
   <p>
-    <a href="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+scalable+web+%26+mobile+apps;Specialized+in+Laravel%2C+React+%26+Node.js;Creator+of+BeatNode%2C+an+open+source+player;Clean+code+%26+efficient+architecture">
-      <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+scalable+web+%26+mobile+apps;Specialized+in+Laravel%2C+React+%26+Node.js;Creator+of+BeatNode%2C+an+open+source+player;Clean+code+%26+efficient+architecture" alt="Typing SVG" />
+    <a href="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+scalable+web+%26+mobile+apps;Specialized+in+Node.js%2C+FastAPI+%26+React;Creator+of+BeatNode%2C+an+open+source+player;Clean+code+%26+efficient+architecture">
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+scalable+web+%26+mobile+apps;Specialized+in+Node.js%2C+FastAPI+%26+React;Creator+of+BeatNode%2C+an+open+source+player;Clean+code+%26+efficient+architecture" alt="Typing SVG" />
     </a>
   </p>
 
@@ -24,7 +24,7 @@
 I am a **Full-Stack Software Engineer** based in the Philippines with a strong background in web and mobile development. I focus on building robust, scalable RESTful APIs, modern frontend interfaces, and efficient software architecture.
 
 - 🔭 **Focus:** Scalable Backend Architecture & Modern Mobile App Solutions
-- ⚡ **Core Stack:** Laravel, React, React Native, Node.js, MySQL/PostgreSQL
+- ⚡ **Core Stack:** Node.js, FastAPI, React, React Native, PostgreSQL/MySQL, Laravel
 - 🎧 **Building:** [BeatNode](https://github.com/jedgarf/BeatNode-Desktop), an open source desktop music and video player
 - 📱 **Shipped:** [KayaJob](https://github.com/jedgarf/KayaJob-Releases) and [TripTarget](https://github.com/jedgarf/TripTarget-Releases) for Android, and [Media Alchemy](https://media-alchemy.vercel.app/) on the web
 - 🤝 **Open to:** Engineering collaboration, open-source projects, & technical discussions
@@ -130,8 +130,8 @@ I am a **Full-Stack Software Engineer** based in the Philippines with a strong b
     <td width="50%">
       <h4>🔙 Backend API Boilerplates</h4>
       <ul>
-        <li><a href="https://github.com/jedgarf/laravel9-api-template"><b>laravel9-api-template</b></a><br><i>Clean Laravel REST API starter with standard setup.</i></li>
         <li><a href="https://github.com/jedgarf/expressjs-api-template"><b>expressjs-api-template</b></a><br><i>Lightweight & modular ExpressJS boilerplate.</i></li>
+        <li><a href="https://github.com/jedgarf/laravel9-api-template"><b>laravel9-api-template</b></a><br><i>Clean Laravel REST API starter with standard setup.</i></li>
       </ul>
     </td>
     <td width="50%">
@@ -151,14 +151,14 @@ I am a **Full-Stack Software Engineer** based in the Philippines with a strong b
 **Languages & Frameworks**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,javascript,typescript,react,jquery,nodejs,expressjs,fastapi,electron" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,fastapi,react,typescript,javascript,electron,php,laravel,jquery" alt="Tech Stack" />
   </a>
 </p>
 
 **Databases & Tools**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,git,github,postman,linux,docker,vscode" alt="Tools Stack" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,git,github,postman,linux,docker,vscode" alt="Tools Stack" />
   </a>
 </p>
 
