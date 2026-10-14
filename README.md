@@ -26,6 +26,7 @@ I am a **Full-Stack Software Engineer** based in the Philippines with a strong b
 - 🔭 **Focus:** Scalable Backend Architecture & Modern Mobile App Solutions
 - ⚡ **Core Stack:** Laravel, React, React Native, Node.js, MySQL/PostgreSQL
 - 🎧 **Building:** [BeatNode](https://github.com/jedgarf/BeatNode-Desktop), an open source desktop music and video player
+- 📱 **Shipped:** [KayaJob](https://github.com/jedgarf/KayaJob-Releases) and [TripTarget](https://github.com/jedgarf/TripTarget-Releases) for Android
 - 🤝 **Open to:** Engineering collaboration, open-source projects, & technical discussions
 
 ---
@@ -64,6 +65,41 @@ I am a **Full-Stack Software Engineer** based in the Philippines with a strong b
   <a href="https://github.com/jedgarf/BeatNode-Desktop/releases/latest"><img src="https://img.shields.io/badge/Download-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Download BeatNode" /></a>
   <a href="https://github.com/jedgarf/BeatNode-Desktop"><img src="https://img.shields.io/github/stars/jedgarf/BeatNode-Desktop?style=for-the-badge&color=C026D3&label=Stars" alt="GitHub stars" /></a>
 </p>
+
+---
+
+### 📱 Android Apps
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/jedgarf/KayaJob-Releases"><img src="https://jefdev.vercel.app/images/projects/kayajob.jpg" alt="KayaJob" width="100%" /></a>
+      <h3><a href="https://github.com/jedgarf/KayaJob-Releases">KayaJob</a></h3>
+      <b>Kaya mo 'yan.</b> The all-in-one app for Filipino job seekers: a job tracker, requirements vault, AI interview coach, take-home pay calculator, offer comparison and the KayaNav commute planner.
+      <br /><br />
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+      <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+      <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini AI" />
+      <br /><br />
+      <a href="https://github.com/jedgarf/KayaJob-Releases/releases/latest"><img src="https://img.shields.io/github/v/release/jedgarf/KayaJob-Releases?style=for-the-badge&logo=android&logoColor=white&label=Download%20APK&color=3DDC84" alt="Download KayaJob APK" /></a>
+      <a href="https://kayajob.vercel.app"><img src="https://img.shields.io/badge/Website-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="KayaJob website" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/jedgarf/TripTarget-Releases"><img src="https://jefdev.vercel.app/images/projects/triptarget.jpg" alt="TripTarget" width="100%" /></a>
+      <h3><a href="https://github.com/jedgarf/TripTarget-Releases">TripTarget</a></h3>
+      <b>Aim. Save. Go.</b> A travel budget planner with savings goals, packing lists, an itinerary map, a live trip map and expense tracking with receipt scanning. Works offline.
+      <br /><br />
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+      <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+      <br /><br />
+      <a href="https://github.com/jedgarf/TripTarget-Releases/releases/latest"><img src="https://img.shields.io/github/v/release/jedgarf/TripTarget-Releases?style=for-the-badge&logo=android&logoColor=white&label=Download%20APK&color=3DDC84" alt="Download TripTarget APK" /></a>
+      <a href="https://triptarget.vercel.app"><img src="https://img.shields.io/badge/Website-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="TripTarget website" /></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
