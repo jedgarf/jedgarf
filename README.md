@@ -26,7 +26,7 @@ I am a **Full-Stack Software Engineer** based in the Philippines with a strong b
 - 🔭 **Focus:** Scalable Backend Architecture & Modern Mobile App Solutions
 - ⚡ **Core Stack:** Node.js, FastAPI, React, React Native, PostgreSQL/MySQL, Laravel
 - 🎧 **Building:** [BeatNode](https://github.com/jedgarf/BeatNode-Desktop), an open source desktop music and video player
-- 📱 **Shipped:** [KayaJob](https://github.com/jedgarf/KayaJob-Releases) and [TripTarget](https://github.com/jedgarf/TripTarget-Releases) for Android, and [Media Alchemy](https://media-alchemy.vercel.app/) on the web
+- 📱 **Shipped:** [Synqo](https://synqo-web.vercel.app/) for desktop and Android, [KayaJob](https://github.com/jedgarf/KayaJob-Releases) and [TripTarget](https://github.com/jedgarf/TripTarget-Releases) for Android, and [Media Alchemy](https://media-alchemy.vercel.app/) on the web
 - 🤝 **Open to:** Engineering collaboration, open-source projects, & technical discussions
 
 ---
@@ -101,16 +101,23 @@ I am a **Full-Stack Software Engineer** based in the Philippines with a strong b
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://media-alchemy.vercel.app/"><img src="https://jefdev.vercel.app/images/projects/media-alchemy.jpg" alt="Media Alchemy" width="100%" /></a>
+      <a href="https://synqo-web.vercel.app/"><img src="https://jefdev.vercel.app/images/projects/synqo.jpg" alt="Synqo" width="100%" /></a>
+      <h3><a href="https://synqo-web.vercel.app/">Synqo</a> · Desktop & Android</h3>
+      <b>Send anything to any device.</b> Local-first file transfer between macOS, Windows, Linux and Android over Wi-Fi, or a one-tap hotspot with a QR code when there's none. No cloud, no cables, no account, and updates right in the app.
+      <br /><br />
+      <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+      <br /><br />
+      <a href="https://github.com/jedgarf/Synqo-Releases/releases"><img src="https://img.shields.io/badge/Download-6F7DFF?style=for-the-badge&logo=github&logoColor=white" alt="Download Synqo" /></a>
+      <a href="https://synqo-web.vercel.app/"><img src="https://img.shields.io/badge/Website-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Synqo website" /></a>
     </td>
     <td width="50%" valign="top">
+      <a href="https://media-alchemy.vercel.app/"><img src="https://jefdev.vercel.app/images/projects/media-alchemy.jpg" alt="Media Alchemy" width="100%" /></a>
       <h3><a href="https://media-alchemy.vercel.app/">Media Alchemy</a> · Web</h3>
-      <b>Turn anything into something more.</b> A media converter for social links and everyday files, with a queue, batch downloads and auto-cleanup.
-      <ul>
-        <li>Social media downloads</li>
-        <li>Files to PDF and an image converter</li>
-        <li>Merge video and audio</li>
-      </ul>
+      <b>Turn anything into something more.</b> A media converter for social links and everyday files: social media downloads, files to PDF, an image converter and video plus audio merging, with a queue, batch downloads and auto-cleanup.
+      <br /><br />
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
