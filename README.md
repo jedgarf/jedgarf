@@ -26,7 +26,7 @@ I am a **Full-Stack Software Engineer** based in the Philippines with a strong b
 - 🔭 **Focus:** Scalable Backend Architecture & Modern Mobile App Solutions
 - ⚡ **Core Stack:** Node.js, FastAPI, React, React Native, PostgreSQL/MySQL, Laravel
 - 🎧 **Building:** [BeatNode](https://github.com/jedgarf/BeatNode-Desktop), an open source desktop music and video player
-- 📱 **Shipped:** [Synqo](https://synqo-web.vercel.app/) for desktop and Android, [KayaJob](https://github.com/jedgarf/KayaJob-Releases) and [TripTarget](https://github.com/jedgarf/TripTarget-Releases) for Android, and [Media Alchemy](https://media-alchemy.vercel.app/) on the web
+- 📱 **Shipped:** [Synqo](https://synqo.jefbuilds.dev/) for desktop and Android, [KayaJob](https://github.com/jedgarf/KayaJob-Releases) and [TripTarget](https://github.com/jedgarf/TripTarget-Releases) for Android, and [Media Alchemy](https://alchemy.jefbuilds.dev/) on the web
 - 🤝 **Open to:** Engineering collaboration, open-source projects, & technical discussions
 
 ---
@@ -73,7 +73,7 @@ I am a **Full-Stack Software Engineer** based in the Philippines with a strong b
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/jedgarf/KayaJob-Releases"><img src="https://jefdev.vercel.app/images/projects/kayajob.jpg" alt="KayaJob" width="100%" /></a>
+      <a href="https://github.com/jedgarf/KayaJob-Releases"><img src="https://jefbuilds.dev/images/projects/kayajob.jpg" alt="KayaJob" width="100%" /></a>
       <h3><a href="https://github.com/jedgarf/KayaJob-Releases">KayaJob</a> · Android</h3>
       <b>Kaya mo 'yan.</b> The all-in-one app for Filipino job seekers: a job tracker, requirements vault, AI interview coach, take-home pay calculator, offer comparison and the KayaNav commute planner.
       <br /><br />
@@ -83,10 +83,10 @@ I am a **Full-Stack Software Engineer** based in the Philippines with a strong b
       <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini AI" />
       <br /><br />
       <a href="https://github.com/jedgarf/KayaJob-Releases/releases/latest"><img src="https://img.shields.io/github/v/release/jedgarf/KayaJob-Releases?style=for-the-badge&logo=android&logoColor=white&label=Download%20APK&color=3DDC84" alt="Download KayaJob APK" /></a>
-      <a href="https://kayajob.vercel.app"><img src="https://img.shields.io/badge/Website-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="KayaJob website" /></a>
+      <a href="https://kayajob.jefbuilds.dev"><img src="https://img.shields.io/badge/Website-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="KayaJob website" /></a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/jedgarf/TripTarget-Releases"><img src="https://jefdev.vercel.app/images/projects/triptarget.jpg" alt="TripTarget" width="100%" /></a>
+      <a href="https://github.com/jedgarf/TripTarget-Releases"><img src="https://jefbuilds.dev/images/projects/triptarget.jpg" alt="TripTarget" width="100%" /></a>
       <h3><a href="https://github.com/jedgarf/TripTarget-Releases">TripTarget</a> · Android</h3>
       <b>Aim. Save. Go.</b> A travel budget planner with savings goals, packing lists, an itinerary map, a live trip map and expense tracking with receipt scanning. Works offline.
       <br /><br />
@@ -96,13 +96,13 @@ I am a **Full-Stack Software Engineer** based in the Philippines with a strong b
       <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
       <br /><br />
       <a href="https://github.com/jedgarf/TripTarget-Releases/releases/latest"><img src="https://img.shields.io/github/v/release/jedgarf/TripTarget-Releases?style=for-the-badge&logo=android&logoColor=white&label=Download%20APK&color=3DDC84" alt="Download TripTarget APK" /></a>
-      <a href="https://triptarget.vercel.app"><img src="https://img.shields.io/badge/Website-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="TripTarget website" /></a>
+      <a href="https://triptarget.jefbuilds.dev"><img src="https://img.shields.io/badge/Website-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="TripTarget website" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://synqo-web.vercel.app/"><img src="https://jefdev.vercel.app/images/projects/synqo.jpg" alt="Synqo" width="100%" /></a>
-      <h3><a href="https://synqo-web.vercel.app/">Synqo</a> · Desktop & Android</h3>
+      <a href="https://synqo.jefbuilds.dev/"><img src="https://jefbuilds.dev/images/projects/synqo.jpg" alt="Synqo" width="100%" /></a>
+      <h3><a href="https://synqo.jefbuilds.dev/">Synqo</a> · Desktop & Android</h3>
       <b>Send anything to any device.</b> Local-first file transfer between macOS, Windows, Linux and Android over Wi-Fi, or a one-tap hotspot with a QR code when there's none. No cloud, no cables, no account, and updates right in the app.
       <br /><br />
       <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
@@ -111,11 +111,11 @@ I am a **Full-Stack Software Engineer** based in the Philippines with a strong b
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
       <br /><br />
       <a href="https://github.com/jedgarf/Synqo-Releases/releases"><img src="https://img.shields.io/badge/Download-6F7DFF?style=for-the-badge&logo=github&logoColor=white" alt="Download Synqo" /></a>
-      <a href="https://synqo-web.vercel.app/"><img src="https://img.shields.io/badge/Website-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Synqo website" /></a>
+      <a href="https://synqo.jefbuilds.dev/"><img src="https://img.shields.io/badge/Website-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Synqo website" /></a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://media-alchemy.vercel.app/"><img src="https://jefdev.vercel.app/images/projects/media-alchemy.jpg" alt="Media Alchemy" width="100%" /></a>
-      <h3><a href="https://media-alchemy.vercel.app/">Media Alchemy</a> · Web</h3>
+      <a href="https://alchemy.jefbuilds.dev/"><img src="https://jefbuilds.dev/images/projects/media-alchemy.jpg" alt="Media Alchemy" width="100%" /></a>
+      <h3><a href="https://alchemy.jefbuilds.dev/">Media Alchemy</a> · Web</h3>
       <b>Turn anything into something more.</b> A media converter for social links and everyday files: social media downloads, files to PDF, an image converter and video plus audio merging, with a queue, batch downloads and auto-cleanup.
       <br /><br />
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -123,7 +123,7 @@ I am a **Full-Stack Software Engineer** based in the Philippines with a strong b
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
       <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" alt="FFmpeg" />
       <br /><br />
-      <a href="https://media-alchemy.vercel.app/"><img src="https://img.shields.io/badge/Open_the_app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Open Media Alchemy" /></a>
+      <a href="https://alchemy.jefbuilds.dev/"><img src="https://img.shields.io/badge/Open_the_app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Open Media Alchemy" /></a>
     </td>
   </tr>
 </table>
