@@ -111,6 +111,7 @@ I am a **Full-Stack Software Engineer** based in the Philippines with a strong b
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
       <br /><br />
       <a href="https://github.com/jedgarf/Synqo-Releases/releases"><img src="https://img.shields.io/badge/Download-6F7DFF?style=for-the-badge&logo=github&logoColor=white" alt="Download Synqo" /></a>
+      <a href="https://apps.microsoft.com/detail/9NNGQXS5D6NC"><img src="https://img.shields.io/badge/Microsoft_Store-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Get Synqo from the Microsoft Store" /></a>
       <a href="https://synqo.jefbuilds.dev/"><img src="https://img.shields.io/badge/Website-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Synqo website" /></a>
     </td>
     <td width="50%" valign="top">
