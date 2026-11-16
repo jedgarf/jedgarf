@@ -25,7 +25,7 @@ I am a **Full-Stack Software Engineer** based in the Philippines with a strong b
 
 - 🔭 **Focus:** Scalable Backend Architecture & Modern Mobile App Solutions
 - ⚡ **Core Stack:** Node.js, FastAPI, React, React Native, PostgreSQL/MySQL, Laravel
-- 🎧 **Building:** [BeatNode](https://github.com/jedgarf/BeatNode-Desktop), an open source desktop music and video player
+- 🎧 **Building:** [BeatNode](https://beatnode.jefbuilds.dev/), an open source desktop music and video player
 - 📱 **Shipped:** [Synqo](https://synqo.jefbuilds.dev/) for desktop and Android, [KayaJob](https://github.com/jedgarf/KayaJob-Releases) and [TripTarget](https://github.com/jedgarf/TripTarget-Releases) for Android, and [Media Alchemy](https://alchemy.jefbuilds.dev/) on the web
 - 🤝 **Open to:** Engineering collaboration, open-source projects, & technical discussions
 
@@ -63,6 +63,7 @@ I am a **Full-Stack Software Engineer** based in the Philippines with a strong b
 
 <p>
   <a href="https://github.com/jedgarf/BeatNode-Desktop/releases/latest"><img src="https://img.shields.io/badge/Download-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Download BeatNode" /></a>
+  <a href="https://beatnode.jefbuilds.dev"><img src="https://img.shields.io/badge/Website-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="BeatNode website" /></a>
   <a href="https://github.com/jedgarf/BeatNode-Desktop"><img src="https://img.shields.io/github/stars/jedgarf/BeatNode-Desktop?style=for-the-badge&color=C026D3&label=Stars" alt="GitHub stars" /></a>
 </p>
 
