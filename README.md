@@ -26,7 +26,7 @@ I am a **Full-Stack Software Engineer** based in the Philippines with a strong b
 - 🔭 **Focus:** Scalable Backend Architecture & Modern Mobile App Solutions
 - ⚡ **Core Stack:** Node.js, FastAPI, React, React Native, PostgreSQL/MySQL, Laravel
 - 🎧 **Building:** [BeatNode](https://beatnode.jefbuilds.dev/), an open source desktop music and video player
-- 📱 **Shipped:** [Synqo](https://synqo.jefbuilds.dev/) for desktop and Android, [KayaJob](https://github.com/jedgarf/KayaJob-Releases) and [TripTarget](https://github.com/jedgarf/TripTarget-Releases) for Android, and [Media Alchemy](https://alchemy.jefbuilds.dev/) on the web
+- 📱 **Shipped:** [FileVolley](https://filevolley.jefbuilds.dev/) for desktop and Android, [KayaJob](https://github.com/jedgarf/KayaJob-Releases) and [TripTarget](https://github.com/jedgarf/TripTarget-Releases) for Android, and [Media Alchemy](https://alchemy.jefbuilds.dev/) on the web
 - 🤝 **Open to:** Engineering collaboration, open-source projects, & technical discussions
 
 ---
@@ -102,8 +102,8 @@ I am a **Full-Stack Software Engineer** based in the Philippines with a strong b
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://synqo.jefbuilds.dev/"><img src="https://jefbuilds.dev/images/projects/synqo.jpg" alt="Synqo" width="100%" /></a>
-      <h3><a href="https://synqo.jefbuilds.dev/">Synqo</a> · Desktop & Android</h3>
+      <a href="https://filevolley.jefbuilds.dev/"><img src="https://jefbuilds.dev/images/projects/filevolley.jpg" alt="FileVolley" width="100%" /></a>
+      <h3><a href="https://filevolley.jefbuilds.dev/">FileVolley</a> · Desktop & Android</h3>
       <b>Send anything to any device.</b> Local-first file transfer between macOS, Windows, Linux and Android over Wi-Fi, or a one-tap hotspot with a QR code when there's none. No cloud, no cables, no account, and updates right in the app.
       <br /><br />
       <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
@@ -111,9 +111,8 @@ I am a **Full-Stack Software Engineer** based in the Philippines with a strong b
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
       <br /><br />
-      <a href="https://github.com/jedgarf/Synqo-Releases/releases"><img src="https://img.shields.io/badge/Download-6F7DFF?style=for-the-badge&logo=github&logoColor=white" alt="Download Synqo" /></a>
-      <a href="https://apps.microsoft.com/detail/9NNGQXS5D6NC"><img src="https://img.shields.io/badge/Microsoft_Store-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Get Synqo from the Microsoft Store" /></a>
-      <a href="https://synqo.jefbuilds.dev/"><img src="https://img.shields.io/badge/Website-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Synqo website" /></a>
+      <a href="https://github.com/jedgarf/FileVolley-Releases/releases"><img src="https://img.shields.io/badge/Download-6F7DFF?style=for-the-badge&logo=github&logoColor=white" alt="Download FileVolley" /></a>
+      <a href="https://filevolley.jefbuilds.dev/"><img src="https://img.shields.io/badge/Website-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="FileVolley website" /></a>
     </td>
     <td width="50%" valign="top">
       <a href="https://alchemy.jefbuilds.dev/"><img src="https://jefbuilds.dev/images/projects/media-alchemy.jpg" alt="Media Alchemy" width="100%" /></a>
