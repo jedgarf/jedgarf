@@ -87,9 +87,9 @@ I am a **Full-Stack Software Engineer** based in the Philippines with a strong b
       <a href="https://kayajob.jefbuilds.dev"><img src="https://img.shields.io/badge/Website-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="KayaJob website" /></a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/jedgarf/TripTarget-Releases"><img src="https://jefbuilds.dev/images/projects/triptarget.jpg" alt="TripTarget" width="100%" /></a>
+      <a href="https://github.com/jedgarf/TripTarget-Releases"><img src="https://jefbuilds.dev/images/projects/triptarget-v3.jpg" alt="TripTarget" width="100%" /></a>
       <h3><a href="https://github.com/jedgarf/TripTarget-Releases">TripTarget</a> · Android</h3>
-      <b>Aim. Save. Go.</b> A travel budget planner with savings goals, packing lists, an itinerary map, a live trip map and expense tracking with receipt scanning. Works offline.
+      <b>Aim. Save. Go.</b> The all-in-one trip planner: savings goals, itinerary map, live trip map, packing lists and receipt scanning. Plan group trips with a shared budget or KKB, find each other even with no signal, and use it offline.
       <br /><br />
       <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
       <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
