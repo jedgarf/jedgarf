@@ -62,6 +62,7 @@ I am a **Full-Stack Software Engineer** based in the Philippines with a strong b
 - 🌙 **Background playback:** keeps playing from the tray or menu bar, in light or dark mode
 
 <p>
+  <a href="https://apps.microsoft.com/detail/9MZ5TG86NLHM"><img src="https://img.shields.io/badge/Microsoft_Store-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Get BeatNode on the Microsoft Store" /></a>
   <a href="https://github.com/jedgarf/BeatNode-Desktop/releases/latest"><img src="https://img.shields.io/badge/Download-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Download BeatNode" /></a>
   <a href="https://beatnode.jefbuilds.dev"><img src="https://img.shields.io/badge/Website-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="BeatNode website" /></a>
   <a href="https://github.com/jedgarf/BeatNode-Desktop"><img src="https://img.shields.io/github/stars/jedgarf/BeatNode-Desktop?style=for-the-badge&color=C026D3&label=Stars" alt="GitHub stars" /></a>
